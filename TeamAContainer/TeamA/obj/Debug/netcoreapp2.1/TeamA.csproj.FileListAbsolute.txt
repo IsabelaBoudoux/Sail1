@@ -1,0 +1,295 @@
+D:\College\PROG2230\Assignments\Assignment 1\TeamAContainer\TeamA\bin\Debug\netcoreapp2.1\TeamA.deps.json
+D:\College\PROG2230\Assignments\Assignment 1\TeamAContainer\TeamA\bin\Debug\netcoreapp2.1\TeamA.runtimeconfig.json
+D:\College\PROG2230\Assignments\Assignment 1\TeamAContainer\TeamA\bin\Debug\netcoreapp2.1\TeamA.runtimeconfig.dev.json
+D:\College\PROG2230\Assignments\Assignment 1\TeamAContainer\TeamA\bin\Debug\netcoreapp2.1\TeamA.dll
+D:\College\PROG2230\Assignments\Assignment 1\TeamAContainer\TeamA\bin\Debug\netcoreapp2.1\TeamA.pdb
+D:\College\PROG2230\Assignments\Assignment 1\TeamAContainer\TeamA\bin\Debug\netcoreapp2.1\TeamA.Views.dll
+D:\College\PROG2230\Assignments\Assignment 1\TeamAContainer\TeamA\bin\Debug\netcoreapp2.1\TeamA.Views.pdb
+D:\College\PROG2230\Assignments\Assignment 1\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.csprojAssemblyReference.cache
+D:\College\PROG2230\Assignments\Assignment 1\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.csproj.CoreCompileInputs.cache
+D:\College\PROG2230\Assignments\Assignment 1\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.RazorAssemblyInfo.cache
+D:\College\PROG2230\Assignments\Assignment 1\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.RazorAssemblyInfo.cs
+D:\College\PROG2230\Assignments\Assignment 1\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\College\PROG2230\Assignments\Assignment 1\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.AssemblyInfoInputs.cache
+D:\College\PROG2230\Assignments\Assignment 1\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.AssemblyInfo.cs
+D:\College\PROG2230\Assignments\Assignment 1\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.TagHelpers.input.cache
+D:\College\PROG2230\Assignments\Assignment 1\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.TagHelpers.output.cache
+D:\College\PROG2230\Assignments\Assignment 1\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.RazorCoreGenerate.cache
+D:\College\PROG2230\Assignments\Assignment 1\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 1\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 1\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 1\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 1\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 1\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 1\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 1\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 1\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 1\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 1\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 1\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 1\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.RazorTargetAssemblyInfo.cache
+D:\College\PROG2230\Assignments\Assignment 1\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.RazorTargetAssemblyInfo.cs
+D:\College\PROG2230\Assignments\Assignment 1\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.Views.pdb
+D:\College\PROG2230\Assignments\Assignment 1\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.dll
+D:\College\PROG2230\Assignments\Assignment 1\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.pdb
+D:\College\PROG2230\Assignments\Assignment 1\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.csproj.CopyComplete
+D:\College\PROG2230\Assignments\Assignment 1\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TAMembershipType\Create.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 1\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TAMembershipType\Delete.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 1\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TAMembershipType\Details.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 1\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TAMembershipType\Edit.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 1\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TAMembershipType\Index.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 1\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TABoatType\Create.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 1\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TABoatType\Delete.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 1\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TABoatType\Details.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 1\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TABoatType\Edit.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 1\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TABoatType\Index.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 1\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TATasks\Create.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 1\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TATasks\Delete.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 1\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TATasks\Details.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 1\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TATasks\Edit.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 1\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TATasks\Index.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\Source\TeamAContainer\TeamA\bin\Debug\netcoreapp2.1\TeamA.deps.json
+D:\College\PROG2230\Assignments\Assignment 2\Source\TeamAContainer\TeamA\bin\Debug\netcoreapp2.1\TeamA.runtimeconfig.json
+D:\College\PROG2230\Assignments\Assignment 2\Source\TeamAContainer\TeamA\bin\Debug\netcoreapp2.1\TeamA.runtimeconfig.dev.json
+D:\College\PROG2230\Assignments\Assignment 2\Source\TeamAContainer\TeamA\bin\Debug\netcoreapp2.1\TeamA.dll
+D:\College\PROG2230\Assignments\Assignment 2\Source\TeamAContainer\TeamA\bin\Debug\netcoreapp2.1\TeamA.pdb
+D:\College\PROG2230\Assignments\Assignment 2\Source\TeamAContainer\TeamA\bin\Debug\netcoreapp2.1\TeamA.Views.dll
+D:\College\PROG2230\Assignments\Assignment 2\Source\TeamAContainer\TeamA\bin\Debug\netcoreapp2.1\TeamA.Views.pdb
+D:\College\PROG2230\Assignments\Assignment 2\Source\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.csprojAssemblyReference.cache
+D:\College\PROG2230\Assignments\Assignment 2\Source\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.csproj.CoreCompileInputs.cache
+D:\College\PROG2230\Assignments\Assignment 2\Source\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.RazorAssemblyInfo.cache
+D:\College\PROG2230\Assignments\Assignment 2\Source\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.RazorAssemblyInfo.cs
+D:\College\PROG2230\Assignments\Assignment 2\Source\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\College\PROG2230\Assignments\Assignment 2\Source\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.AssemblyInfoInputs.cache
+D:\College\PROG2230\Assignments\Assignment 2\Source\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.AssemblyInfo.cs
+D:\College\PROG2230\Assignments\Assignment 2\Source\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.TagHelpers.input.cache
+D:\College\PROG2230\Assignments\Assignment 2\Source\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.TagHelpers.output.cache
+D:\College\PROG2230\Assignments\Assignment 2\Source\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.RazorCoreGenerate.cache
+D:\College\PROG2230\Assignments\Assignment 2\Source\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\Source\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\Source\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\Source\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\Source\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\Source\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\Source\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\Source\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\Source\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\Source\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\Source\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TABoatType\Create.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\Source\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TABoatType\Delete.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\Source\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TABoatType\Details.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\Source\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TABoatType\Edit.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\Source\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TABoatType\Index.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\Source\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TAMembershipType\Create.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\Source\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TAMembershipType\Delete.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\Source\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TAMembershipType\Details.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\Source\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TAMembershipType\Edit.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\Source\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TAMembershipType\Index.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\Source\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TATasks\Create.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\Source\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TATasks\Delete.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\Source\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TATasks\Details.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\Source\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TATasks\Edit.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\Source\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TATasks\Index.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\Source\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\Source\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\Source\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.RazorTargetAssemblyInfo.cache
+D:\College\PROG2230\Assignments\Assignment 2\Source\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.RazorTargetAssemblyInfo.cs
+D:\College\PROG2230\Assignments\Assignment 2\Source\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.Views.pdb
+D:\College\PROG2230\Assignments\Assignment 2\Source\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.dll
+D:\College\PROG2230\Assignments\Assignment 2\Source\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.pdb
+D:\College\PROG2230\Assignments\Assignment 2\Source\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.csproj.CopyComplete
+D:\College\PROG2230\Assignments\Assignment 2\TeamAContainer\TeamA\bin\Debug\netcoreapp2.1\TeamA.deps.json
+D:\College\PROG2230\Assignments\Assignment 2\TeamAContainer\TeamA\bin\Debug\netcoreapp2.1\TeamA.runtimeconfig.json
+D:\College\PROG2230\Assignments\Assignment 2\TeamAContainer\TeamA\bin\Debug\netcoreapp2.1\TeamA.runtimeconfig.dev.json
+D:\College\PROG2230\Assignments\Assignment 2\TeamAContainer\TeamA\bin\Debug\netcoreapp2.1\TeamA.dll
+D:\College\PROG2230\Assignments\Assignment 2\TeamAContainer\TeamA\bin\Debug\netcoreapp2.1\TeamA.pdb
+D:\College\PROG2230\Assignments\Assignment 2\TeamAContainer\TeamA\bin\Debug\netcoreapp2.1\TeamA.Views.dll
+D:\College\PROG2230\Assignments\Assignment 2\TeamAContainer\TeamA\bin\Debug\netcoreapp2.1\TeamA.Views.pdb
+D:\College\PROG2230\Assignments\Assignment 2\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.csprojAssemblyReference.cache
+D:\College\PROG2230\Assignments\Assignment 2\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.csproj.CoreCompileInputs.cache
+D:\College\PROG2230\Assignments\Assignment 2\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.RazorAssemblyInfo.cache
+D:\College\PROG2230\Assignments\Assignment 2\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.RazorAssemblyInfo.cs
+D:\College\PROG2230\Assignments\Assignment 2\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.AssemblyInfoInputs.cache
+D:\College\PROG2230\Assignments\Assignment 2\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.AssemblyInfo.cs
+D:\College\PROG2230\Assignments\Assignment 2\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.TagHelpers.input.cache
+D:\College\PROG2230\Assignments\Assignment 2\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.TagHelpers.output.cache
+D:\College\PROG2230\Assignments\Assignment 2\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.RazorCoreGenerate.cache
+D:\College\PROG2230\Assignments\Assignment 2\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TABoatType\Create.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TABoatType\Delete.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TABoatType\Details.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TABoatType\Edit.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TABoatType\Index.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TAMembershipType\Create.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TAMembershipType\Delete.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TAMembershipType\Details.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TAMembershipType\Edit.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TAMembershipType\Index.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TATasks\Create.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TATasks\Delete.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TATasks\Details.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TATasks\Edit.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TATasks\Index.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.RazorTargetAssemblyInfo.cache
+D:\College\PROG2230\Assignments\Assignment 2\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.RazorTargetAssemblyInfo.cs
+D:\College\PROG2230\Assignments\Assignment 2\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.Views.pdb
+D:\College\PROG2230\Assignments\Assignment 2\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.dll
+D:\College\PROG2230\Assignments\Assignment 2\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.pdb
+D:\College\PROG2230\Assignments\Assignment 2\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.csproj.CopyComplete
+D:\College\PROG2230\Assignments\Assignment 2\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TAAnnualFeeStructure\Create.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TAAnnualFeeStructure\Delete.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TAAnnualFeeStructure\Details.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TAAnnualFeeStructure\Edit.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TAAnnualFeeStructure\Index.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TAMember\Create.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TAMember\Delete.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TAMember\Details.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TAMember\Edit.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TAMember\Index.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TAMembership\Create.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TAMembership\Delete.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TAMembership\Details.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TAMembership\Edit.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TAMembership\Index.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\College\PROG2230\Assignments\Assignment 2\For Attempts\TeamAContainer\TeamA\bin\Debug\netcoreapp2.1\TeamA.deps.json
+D:\College\PROG2230\Assignments\Assignment 2\For Attempts\TeamAContainer\TeamA\bin\Debug\netcoreapp2.1\TeamA.runtimeconfig.json
+D:\College\PROG2230\Assignments\Assignment 2\For Attempts\TeamAContainer\TeamA\bin\Debug\netcoreapp2.1\TeamA.runtimeconfig.dev.json
+D:\College\PROG2230\Assignments\Assignment 2\For Attempts\TeamAContainer\TeamA\bin\Debug\netcoreapp2.1\TeamA.dll
+D:\College\PROG2230\Assignments\Assignment 2\For Attempts\TeamAContainer\TeamA\bin\Debug\netcoreapp2.1\TeamA.pdb
+D:\College\PROG2230\Assignments\Assignment 2\For Attempts\TeamAContainer\TeamA\bin\Debug\netcoreapp2.1\TeamA.Views.dll
+D:\College\PROG2230\Assignments\Assignment 2\For Attempts\TeamAContainer\TeamA\bin\Debug\netcoreapp2.1\TeamA.Views.pdb
+D:\College\PROG2230\Assignments\Assignment 2\For Attempts\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.csprojAssemblyReference.cache
+D:\College\PROG2230\Assignments\Assignment 2\For Attempts\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.csproj.CoreCompileInputs.cache
+D:\College\PROG2230\Assignments\Assignment 2\For Attempts\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.RazorAssemblyInfo.cache
+D:\College\PROG2230\Assignments\Assignment 2\For Attempts\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.RazorAssemblyInfo.cs
+D:\College\PROG2230\Assignments\Assignment 2\For Attempts\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\College\PROG2230\Assignments\Assignment 2\For Attempts\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.AssemblyInfoInputs.cache
+D:\College\PROG2230\Assignments\Assignment 2\For Attempts\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.AssemblyInfo.cs
+D:\College\PROG2230\Assignments\Assignment 2\For Attempts\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.TagHelpers.input.cache
+D:\College\PROG2230\Assignments\Assignment 2\For Attempts\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.TagHelpers.output.cache
+D:\College\PROG2230\Assignments\Assignment 2\For Attempts\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.RazorCoreGenerate.cache
+D:\College\PROG2230\Assignments\Assignment 2\For Attempts\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\For Attempts\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\For Attempts\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\For Attempts\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\For Attempts\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\For Attempts\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\For Attempts\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\For Attempts\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\For Attempts\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\For Attempts\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\For Attempts\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TAAnnualFeeStructure\Create.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\For Attempts\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TAAnnualFeeStructure\Delete.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\For Attempts\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TAAnnualFeeStructure\Details.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\For Attempts\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TAAnnualFeeStructure\Edit.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\For Attempts\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TAAnnualFeeStructure\Index.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\For Attempts\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TABoatType\Create.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\For Attempts\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TABoatType\Delete.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\For Attempts\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TABoatType\Details.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\For Attempts\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TABoatType\Edit.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\For Attempts\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TABoatType\Index.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\For Attempts\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TAMembershipType\Create.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\For Attempts\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TAMembershipType\Delete.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\For Attempts\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TAMembershipType\Details.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\For Attempts\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TAMembershipType\Edit.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\For Attempts\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TAMembershipType\Index.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\For Attempts\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TAMembership\Create.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\For Attempts\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TAMembership\Delete.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\For Attempts\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TAMembership\Details.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\For Attempts\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TAMembership\Edit.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\For Attempts\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TAMembership\Index.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\For Attempts\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TAMember\Create.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\For Attempts\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TAMember\Delete.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\For Attempts\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TAMember\Details.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\For Attempts\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TAMember\Edit.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\For Attempts\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TAMember\Index.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\For Attempts\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TATasks\Create.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\For Attempts\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TATasks\Delete.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\For Attempts\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TATasks\Details.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\For Attempts\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TATasks\Edit.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\For Attempts\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TATasks\Index.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\For Attempts\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\For Attempts\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\College\PROG2230\Assignments\Assignment 2\For Attempts\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.RazorTargetAssemblyInfo.cache
+D:\College\PROG2230\Assignments\Assignment 2\For Attempts\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.RazorTargetAssemblyInfo.cs
+D:\College\PROG2230\Assignments\Assignment 2\For Attempts\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.Views.pdb
+D:\College\PROG2230\Assignments\Assignment 2\For Attempts\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.dll
+D:\College\PROG2230\Assignments\Assignment 2\For Attempts\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.pdb
+D:\College\PROG2230\Assignments\Assignment 2\For Attempts\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.csproj.CopyComplete
+C:\Users\Isabela\Desktop\Isabela\TeamAContainer\TeamA\bin\Debug\netcoreapp2.1\TeamA.deps.json
+C:\Users\Isabela\Desktop\Isabela\TeamAContainer\TeamA\bin\Debug\netcoreapp2.1\TeamA.runtimeconfig.json
+C:\Users\Isabela\Desktop\Isabela\TeamAContainer\TeamA\bin\Debug\netcoreapp2.1\TeamA.runtimeconfig.dev.json
+C:\Users\Isabela\Desktop\Isabela\TeamAContainer\TeamA\bin\Debug\netcoreapp2.1\TeamA.dll
+C:\Users\Isabela\Desktop\Isabela\TeamAContainer\TeamA\bin\Debug\netcoreapp2.1\TeamA.pdb
+C:\Users\Isabela\Desktop\Isabela\TeamAContainer\TeamA\bin\Debug\netcoreapp2.1\TeamA.Views.dll
+C:\Users\Isabela\Desktop\Isabela\TeamAContainer\TeamA\bin\Debug\netcoreapp2.1\TeamA.Views.pdb
+C:\Users\Isabela\Desktop\Isabela\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.csprojAssemblyReference.cache
+C:\Users\Isabela\Desktop\Isabela\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.csproj.CoreCompileInputs.cache
+C:\Users\Isabela\Desktop\Isabela\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.RazorAssemblyInfo.cache
+C:\Users\Isabela\Desktop\Isabela\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.RazorAssemblyInfo.cs
+C:\Users\Isabela\Desktop\Isabela\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\Isabela\Desktop\Isabela\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.AssemblyInfoInputs.cache
+C:\Users\Isabela\Desktop\Isabela\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.AssemblyInfo.cs
+C:\Users\Isabela\Desktop\Isabela\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.TagHelpers.input.cache
+C:\Users\Isabela\Desktop\Isabela\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.TagHelpers.output.cache
+C:\Users\Isabela\Desktop\Isabela\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.RazorCoreGenerate.cache
+C:\Users\Isabela\Desktop\Isabela\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Isabela\Desktop\Isabela\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\Isabela\Desktop\Isabela\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\Isabela\Desktop\Isabela\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\Isabela\Desktop\Isabela\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\Isabela\Desktop\Isabela\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\Isabela\Desktop\Isabela\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\Isabela\Desktop\Isabela\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\Isabela\Desktop\Isabela\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+C:\Users\Isabela\Desktop\Isabela\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Isabela\Desktop\Isabela\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TAAnnualFeeStructure\Create.g.cshtml.cs
+C:\Users\Isabela\Desktop\Isabela\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TAAnnualFeeStructure\Delete.g.cshtml.cs
+C:\Users\Isabela\Desktop\Isabela\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TAAnnualFeeStructure\Details.g.cshtml.cs
+C:\Users\Isabela\Desktop\Isabela\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TAAnnualFeeStructure\Edit.g.cshtml.cs
+C:\Users\Isabela\Desktop\Isabela\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TAAnnualFeeStructure\Index.g.cshtml.cs
+C:\Users\Isabela\Desktop\Isabela\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TABoatType\Create.g.cshtml.cs
+C:\Users\Isabela\Desktop\Isabela\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TABoatType\Delete.g.cshtml.cs
+C:\Users\Isabela\Desktop\Isabela\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TABoatType\Details.g.cshtml.cs
+C:\Users\Isabela\Desktop\Isabela\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TABoatType\Edit.g.cshtml.cs
+C:\Users\Isabela\Desktop\Isabela\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TABoatType\Index.g.cshtml.cs
+C:\Users\Isabela\Desktop\Isabela\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TAMembershipType\Create.g.cshtml.cs
+C:\Users\Isabela\Desktop\Isabela\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TAMembershipType\Delete.g.cshtml.cs
+C:\Users\Isabela\Desktop\Isabela\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TAMembershipType\Details.g.cshtml.cs
+C:\Users\Isabela\Desktop\Isabela\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TAMembershipType\Edit.g.cshtml.cs
+C:\Users\Isabela\Desktop\Isabela\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TAMembershipType\Index.g.cshtml.cs
+C:\Users\Isabela\Desktop\Isabela\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TAMembership\Create.g.cshtml.cs
+C:\Users\Isabela\Desktop\Isabela\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TAMembership\Delete.g.cshtml.cs
+C:\Users\Isabela\Desktop\Isabela\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TAMembership\Details.g.cshtml.cs
+C:\Users\Isabela\Desktop\Isabela\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TAMembership\Edit.g.cshtml.cs
+C:\Users\Isabela\Desktop\Isabela\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TAMembership\Index.g.cshtml.cs
+C:\Users\Isabela\Desktop\Isabela\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TAMember\Create.g.cshtml.cs
+C:\Users\Isabela\Desktop\Isabela\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TAMember\Delete.g.cshtml.cs
+C:\Users\Isabela\Desktop\Isabela\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TAMember\Details.g.cshtml.cs
+C:\Users\Isabela\Desktop\Isabela\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TAMember\Edit.g.cshtml.cs
+C:\Users\Isabela\Desktop\Isabela\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TAMember\Index.g.cshtml.cs
+C:\Users\Isabela\Desktop\Isabela\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TATasks\Create.g.cshtml.cs
+C:\Users\Isabela\Desktop\Isabela\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TATasks\Delete.g.cshtml.cs
+C:\Users\Isabela\Desktop\Isabela\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TATasks\Details.g.cshtml.cs
+C:\Users\Isabela\Desktop\Isabela\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TATasks\Edit.g.cshtml.cs
+C:\Users\Isabela\Desktop\Isabela\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\TATasks\Index.g.cshtml.cs
+C:\Users\Isabela\Desktop\Isabela\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\Isabela\Desktop\Isabela\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Isabela\Desktop\Isabela\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.RazorTargetAssemblyInfo.cache
+C:\Users\Isabela\Desktop\Isabela\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.RazorTargetAssemblyInfo.cs
+C:\Users\Isabela\Desktop\Isabela\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.Views.pdb
+C:\Users\Isabela\Desktop\Isabela\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.dll
+C:\Users\Isabela\Desktop\Isabela\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.pdb
+C:\Users\Isabela\Desktop\Isabela\TeamAContainer\TeamA\obj\Debug\netcoreapp2.1\TeamA.csproj.CopyComplete
